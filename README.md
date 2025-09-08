@@ -1,7 +1,9 @@
-<h1 align="center">Привет 👋, меня зовут Дмитрий</h1>
+<h1 align="center">Привет 👋</h1>
 <h3 align="center">Я начинающий программист из России</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babytich&label=Profile%20views&color=0e75b6&style=flat" alt="babytich" /> </p>
+Добро пожаловать в мой Профиль GitHub 
+
 
 Me PC:
 
