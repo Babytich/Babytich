@@ -1,5 +1,8 @@
-![Animation](./my-animation(2).gif)
-<img src="./assets/my-animation.gif" width="300"/>
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">I am a beginner programmer from Russia🇷🇺</h3>
