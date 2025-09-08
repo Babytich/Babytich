@@ -1,3 +1,5 @@
+![Animation](./my-animation.gif)
+
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">I am a beginner programmer from Russia🇷🇺</h3>
 
