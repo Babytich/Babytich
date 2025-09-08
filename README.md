@@ -1,4 +1,4 @@
-![Animation](./my-animation.gif)
+![Animation](./my-animation(2).gif)
 
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">I am a beginner programmer from Russia🇷🇺</h3>
