@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babytich&label=Profile%20views&color=0e75b6&style=flat" alt="babytich" /> </p>
 Welcome to my Profile GitHub :shipit:
 
+![GitHub Snake](./github-snake.svg)
+
 
 Me PC:
 
