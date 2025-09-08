@@ -2,7 +2,7 @@
 <h3 align="center">Я начинающий программист из России🇷🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babytich&label=Profile%20views&color=0e75b6&style=flat" alt="babytich" /> </p>
-Добро пожаловать в мой Профиль GitHub 
+Добро пожаловать в мой Профиль GitHub :shipit:
 
 
 Me PC:
