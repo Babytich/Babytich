@@ -3,7 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babytich&label=Profile%20views&color=0e75b6&style=flat" alt="babytich" /> </p>
 
+Me PC:
+
+GPU: Rx 580 8gb
+
+CPU: R5 5600
+
+RAM: 32 GB
+
+System: Arch Linux 
+
+Dotfiles: Hyde 
+.
+
 - 📫 Как со мной связаться [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:bossdim2004@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/stoystoyl)
+
+
+
+
+
 
 
 <h3 align="left">Social media:</h3>
