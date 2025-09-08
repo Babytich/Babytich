@@ -1,4 +1,5 @@
 ![Animation](./my-animation(2).gif)
+<img src="./assets/my-animation.gif" width="300"/>
 
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">I am a beginner programmer from Russia🇷🇺</h3>
